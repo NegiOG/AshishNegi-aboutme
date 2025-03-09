@@ -9,8 +9,8 @@ About Me
 
 🔹 **What’s in My GitHub?**  
 
-📌 **SQL Projects:** Data Cleaning, Sales Analysis, Customer Retention 
-📌 **Power BI Dashboards:** Visual insights on business performance  
+📌 **SQL Projects:** Data Cleaning, Sales Analysis, Customer Retention
+📌 **Power BI Dashboards:** Visual insights on business performance
 📌 **Excel Forecasting Models:** Budgeting & predictive analysis  
 
 🔹 **Let’s Connect!**  
