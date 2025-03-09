@@ -9,9 +9,9 @@ About Me
 
 🔹 **What’s in My GitHub?**  
 
-📌 **SQL Projects:** Data Cleaning, Sales Analysis, Customer Retention
-📌 **Power BI Dashboards:** Visual insights on business performance
-📌 **Excel Forecasting Models:** Budgeting & predictive analysis  
+📌 **SQL Projects:** Data Cleaning, Sales Analysis, Customer Retention.
+📌 **Power BI Dashboards:** Visual insights on business performance.
+📌 **Excel Forecasting Models:** Budgeting & predictive analysis.  
 
 🔹 **Let’s Connect!**  
 📧 ashnegi1900@gmail.com | 🔗 LinkedIn - https://www.linkedin.com/in/ashish-negi-650655171/   
